@@ -4,7 +4,7 @@
 - 👨‍💻 I code in **C++**, **C#**, **Lua**, **Python**, **HTML**, **CSS**, and **JavaScript**.
 - Developer in **CER3**
 
-## 🛠️ Technologies & Tools:
+## 🛠️ Languages:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
